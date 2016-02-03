@@ -5,9 +5,9 @@
  * Thanks for MaterializeCSS.com
  */
 
-.default_color{background-color: #fffff !important} /*cloudy gray*/
+.default_color{background-color: gray !important} /*cloudy gray*/
 
-.default_color_text{color: #6D6968 !important}
+.default_color_text{color: gray !important}
 
 .icon-block {
     padding: 0 15px;
@@ -20,7 +20,7 @@
     min-height: 632px;
     max-height: 864px;
     position: relative;
-    background-color: #6D6968;
+    background-color: gray;
 }
 
 #nav_f{
